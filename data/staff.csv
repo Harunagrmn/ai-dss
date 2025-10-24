@@ -1,0 +1,6 @@
+date,department,headcount,avg_salary,sales_team_size,overtime_hours
+2025-01-01,sales,15,38000,10,12
+2025-01-02,sales,15,38000,10,14
+2025-01-03,sales,15,38000,10,10
+2025-01-04,sales,15,38000,10,13
+2025-01-05,sales,15,38000,10,9

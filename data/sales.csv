@@ -1,0 +1,6 @@
+date,product_id,unit_price,units_sold,discount_rate,channel
+2025-01-01,SKU-001,120,35,0.05,online
+2025-01-02,SKU-002,200,18,0.10,store
+2025-01-03,SKU-001,130,42,0.03,online
+2025-01-04,SKU-003,90,60,0.00,store
+2025-01-05,SKU-002,210,25,0.05,online
