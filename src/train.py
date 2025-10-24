@@ -2,7 +2,8 @@ import joblib
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score, mean_absolute_error
-from features import load_data
+from src.features import load_data
+
 
 def train_model():
     #1️⃣ Veriyi al
