@@ -1,0 +1,12 @@
+# Python sanal ortamı
+venv/
+__pycache__/
+*.pyc
+
+# IDE / OS dosyaları
+.vscode/
+.idea/
+.DS_Store
+
+# Model dosyaları
+models/
