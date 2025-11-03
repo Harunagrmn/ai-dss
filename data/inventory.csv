@@ -1,0 +1,4 @@
+product_id,stock_qty,unit_cost,lead_time_days,holding_cost_rate
+SKU-001,500,70,10,0.02
+SKU-002,300,120,8,0.03
+SKU-003,600,50,12,0.01

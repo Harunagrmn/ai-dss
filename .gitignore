@@ -1,0 +1,17 @@
+# Python sanal ortamı
+venv/
+__pycache__/
+*.pyc
+models/
+*.joblib
+
+# IDE / OS dosyaları
+.vscode/
+.idea/
+.DS_Store
+
+# Model dosyaları
+models/
+
+# Streamlit gizli anahtarlar
+.streamlit/

@@ -1,0 +1,6 @@
+credentials:
+  usernames: {}
+cookie:
+  expiry_days: 30
+  key: rastgele_bir_anahtar_12345
+  name: karmentor_cookie
